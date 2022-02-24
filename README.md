@@ -9,7 +9,7 @@
 - ⚡ Fun fact: I like monkey gifs alot.
 - 🏎️ Trackmania: BroderGaBoo
 
-# My Mac Setup
+# Mac Setup
 
 This is my take on the following article and how i prefer my setup https://betterprogramming.pub/how-to-set-up-your-macbook-for-web-development-in-2021-a7a1f53f6462.
 
@@ -156,3 +156,11 @@ To install it, run:
 ``` brew install --cask visual-studio-code ```
 
 You can find lots of great extensions for the most popular languages and frameworks in the Visual Studio Marketplace.
+
+Extensions:
+- Atom One Dark 
+- vscode-icons
+
+# Windows Setup(In progress)🚧
+
+https://pureinfotech.com/install-windows-subsystem-linux-2-windows-10/
