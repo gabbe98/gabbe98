@@ -70,7 +70,7 @@ Now the fun part! These are the command line–related tools I recommend for any
 ### Homebrew 🍺
 This is the package manager. It allows you to install, uninstall, and update command-line tools and Mac applications.
 To install it, open the terminal, and run this command:
-``` /bin/bash -c “$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"```
+``` /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"```
 
 During the installation, you might be asked to install the Xcode Command Line Tools if you haven’t already — just follow the instructions on the screen.
 To make sure your system is ready to brew, run ``` brew doctor ```.
@@ -106,7 +106,7 @@ The first thing I recommend is having Homebrew manage its installation — open 
 Oh My Zsh is a community-driven framework for managing your Zsh configuration. It provides hundreds of plugins and themes and makes configuring Zsh a breeze.
 To install Oh My Zsh, run:
 
-``` sh -c “$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)" ```
+``` sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)" ```
 
 ### Theme 😏
 Powerlevel10k is my theme of choice — it’s fast, it’s really well integrated with Git, it supports icons, and a lot more.
