@@ -1,8 +1,8 @@
-# Hi there, my personal README is used as a tutorial for a new system 👋
+# Hi there 👋
+
+This is my take on the following article and how i prefer my setup on a new system https://betterprogramming.pub/how-to-set-up-your-macbook-for-web-development-in-2021-a7a1f53f6462.  
 
 # Mac Setup
-
-This is my take on the following article and how i prefer my setup https://betterprogramming.pub/how-to-set-up-your-macbook-for-web-development-in-2021-a7a1f53f6462.
 
 ## macOS Settings ⚙️
 
