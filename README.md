@@ -1,13 +1,4 @@
-# Hi there 👋
-
-### About me:
-
-- 🔭 I’m currently working on alot of things but i'll mention the portfolio for a friend only right now.
-- 🌱 I’m currently learning Django Rest Framework, MobX, NextJS.
-- 👯 I’m looking to collaborate on projects based on web technologies.
-- 📫 How to reach me: LinkedIn, Mail or Discord. (Contact: https://gabrieldahlberg.com/about)
-- ⚡ Fun fact: I like monkey gifs alot.
-- 🏎️ Trackmania: BroderGaBoo
+# Hi there, my personal README is used as a tutorial for a new system 👋
 
 # Mac Setup
 
