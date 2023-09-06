@@ -70,10 +70,14 @@ You can now search for packages with brew search and install them with brew inst
 To update the packages’ local registry you can run ```brew update```, and to upgrade the installed packages to their latest versions, type ``` brew upgrade ```.
 I recommend running ``` brew doctor ``` every now and then to make sure things are good and brew cleanup to remove unused files.
 
-### iTerm2 🖥️
+### iTerm2 or Warp 🖥️
 
 This is an optional replacement for the terminal app. It offers a lot of really useful features. I’ll list my favorite ones below.
 To install it, open the terminal (this is the last time you’ll need it), and run the following:
+
+[Warp download page](https://app.warp.dev/get_warp)
+
+or
 
 ``` brew install --cask iterm2 ```
 
@@ -151,7 +155,3 @@ You can find lots of great extensions for the most popular languages and framewo
 Extensions:
 - Atom One Dark 
 - vscode-icons
-
-# Windows Setup(In progress)🚧
-
-https://pureinfotech.com/install-windows-subsystem-linux-2-windows-10/
